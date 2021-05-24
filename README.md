@@ -1,3 +1,3 @@
 20212964    Dongjin Kim
 
-Kookmin Univ. SW
+Kookmin Univ. School of Computer Science
